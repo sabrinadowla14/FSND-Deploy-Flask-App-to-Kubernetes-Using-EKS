@@ -2,7 +2,7 @@
 This is the new document.
 
 External IP for the reviewer:
-a169cf013485211eab7630654ef8d1ff-1547521660.us-west-2.elb.amazonaws.com/
+a...................us-west-2.elb.amazonaws.com/
 
 This is the project starter repo for the fourth course in the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004): Server Deployment, Containerization, and Testing.
 
